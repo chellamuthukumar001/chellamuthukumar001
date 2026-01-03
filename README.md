@@ -33,7 +33,7 @@ that solve real-world problems efficiently.
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a href="https://instagram.com/cmk_3454">
+<a href="https://instagram.com/cmk3454">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
