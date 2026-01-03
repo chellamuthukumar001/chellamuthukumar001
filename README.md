@@ -3,8 +3,10 @@ Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147
 </h1>
 
 <p align="center">
-Hi, I'm <b>CHELLA MUTHU KUMAR</b>, a second-year graduate student in Computer Science Engineering.
-Interested in <b>Web Development</b> and <b>Artificial Intelligence</b>.
+Hi, I'm <b>CHELLA MUTHU KUMAR</b>, a second-year Computer Science Engineering student passionate about 
+<b>Web Development</b>, <b>UI/UX Design</b>, and <b>AI Automation</b>.  
+I enjoy creating visually appealing, user-friendly interfaces and building intelligent, automated solutions
+that solve real-world problems.
 </p>
 
 <hr>
@@ -20,6 +22,10 @@ Interested in <b>Web Development</b> and <b>Artificial Intelligence</b>.
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
+<a href="https://wa.me/918681819529">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
 <a href="https://instagram.com/chellamuthu_kumar">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -29,17 +35,22 @@ Interested in <b>Web Development</b> and <b>Artificial Intelligence</b>.
 
 ## 🛠 TECH STACKS
 
-### Frontend
+### 🌐 Frontend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react">
 </p>
 
-### Languages
+### 🎨 UI / UX Design
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,xd">
+</p>
+
+### 💻 Programming Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,c,java">
 </p>
 
-### Tools & Version Control
+### ⚙️ Tools & Version Control
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker">
 </p>
