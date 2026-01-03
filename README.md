@@ -89,5 +89,5 @@ that solve real-world problems efficiently.
 <hr>
 
 <p align="center">
-⭐ <b>Open to collaborations, internships, and exciting projects!</b> ⭐
+⭐ <b>Open to collaborations and exciting projects!</b> ⭐
 </p>
