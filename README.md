@@ -78,6 +78,14 @@ that solve real-world problems efficiently.
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chellamuthukumar001&theme=dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chellamuthukumar001&theme=dark">
 </p>
+<p align="center">
+  <a href="https://github.com/chellamuthukumar001">        
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=chellamuthukumar001&show_icons=true&theme=github_dark"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chellamuthukumar001&theme=github_dark" />
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=chellamuthukumar001&layout=compact&theme=github_dark' />
+    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chellamuthukumar001&theme=github_dark' />
+  </a>
+</p>
 
 <hr>
 
