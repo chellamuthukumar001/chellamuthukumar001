@@ -55,7 +55,12 @@ that solve real-world problems efficiently.
 
 ### 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,java">
+<img src="https://skillicons.dev/icons?i=py,c,java,dart">
+</p>
+
+### 📱 Deployment & App Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,vercel">
 </p>
 
 ### ⚙️ Tools & Version Control
@@ -69,6 +74,8 @@ that solve real-world problems efficiently.
 - 🌍 Build responsive & animated websites  
 - 🎨 Design user-centric UI/UX prototypes  
 - 🤖 Create AI-powered & automation workflows  
+- 📱 Develop cross-platform apps using Flutter  
+- 🚀 Deploy applications using modern platforms like Vercel  
 - 🔗 Integrate frontend with backend logic  
 
 <hr>
