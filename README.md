@@ -7,7 +7,7 @@
 
 <p align="center">
 Hi, I'm <b>CHELLA MUTHU KUMAR</b> 👨‍💻 <br>
-A <b>2nd-year Computer Science Engineering student</b> passionate about  
+A <b>3rd-year Computer Science Engineering student</b> passionate about  
 <b>Web Development</b>, <b>UI/UX Design</b>, and <b>AI Automation</b>.
 </p>
 
