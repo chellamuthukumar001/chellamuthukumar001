@@ -149,9 +149,9 @@ const chella = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=chellamuthukumar001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00f7ff&icon_color=00f7ff&custom_title=Chella's+GitHub+Stats"/>
+  <img height="185em" src="https://github-stats.vercel.app/api?username=chellamuthukumar001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00f7ff&icon_color=00f7ff"/>
   &nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellamuthukumar001&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=00f7ff&custom_title=Top+Languages"/>
+  <img height="185em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=chellamuthukumar001&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=00f7ff"/>
 </p>
 
 <p align="center">
