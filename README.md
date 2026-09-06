@@ -24,7 +24,7 @@
 <!-- ═══════════ CLICKABLE NAVIGATION ═══════════ -->
 <div align="center">
 
-| [🧑‍💻 About](#-about-me) | [🛠️ Tech Stack](#️-tech-stacks) | [🗺️ Roadmap](#️-my-dev-workflow) | [🏗️ Projects](#️-projects) | [📊 Stats](#-github-stats) | [🤝 Contact](#-connect-with-me) |
+| [🧑‍💻 About](#-about-me) | [🛠️ Tech Stack](#️-tech-stacks) | [📊 Stats](#-github-stats) | [🐍 Snake](#-contribution-snake) | [📈 Overview](#-contribution-overview) | [🤝 Contact](#-connect-with-me) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
@@ -138,101 +138,8 @@ const chella = {
 </p>
 </details>
 
----
 
-<!-- ═══════════ MERMAID — DEV WORKFLOW ═══════════ -->
 
-## 🗺️ My Dev Workflow
-
-```mermaid
-flowchart LR
-    A(["💡 Idea"]) --> B["🎨 Design\nFigma · XD"]
-    B --> C["🌐 Frontend\nReact · Tailwind · Next.js"]
-    C --> D["⚙️ Backend\nNode.js · Firebase"]
-    D --> E["🤖 AI Layer\nOpenAI · Automation"]
-    E --> F["🚀 Deploy\nVercel · Docker"]
-    F --> G(["✅ Live Product"])
-
-    style A fill:#0f3460,color:#00f7ff,stroke:#00f7ff
-    style G fill:#0f3460,color:#00ff88,stroke:#00ff88
-    style B fill:#1a1a2e,color:#a8d8ea,stroke:#16213e
-    style C fill:#1a1a2e,color:#a8d8ea,stroke:#16213e
-    style D fill:#1a1a2e,color:#a8d8ea,stroke:#16213e
-    style E fill:#1a1a2e,color:#a8d8ea,stroke:#16213e
-    style F fill:#1a1a2e,color:#a8d8ea,stroke:#16213e
-```
-
----
-
-## 🎯 Focus Distribution
-
-```mermaid
-pie title Where My Time Goes
-    "Web Dev & Frontend" : 35
-    "UI/UX Design" : 20
-    "AI & Automation" : 20
-    "Flutter & Mobile" : 15
-    "DSA & Problem Solving" : 10
-```
-
----
-
-## 🧭 Skill Journey
-
-```mermaid
-journey
-    title My Learning Path
-    section Foundations
-      HTML & CSS          : 5 : Me
-      JavaScript          : 5 : Me
-      Python & C          : 5 : Me
-    section Intermediate
-      React & Tailwind    : 5 : Me
-      Figma UI/UX         : 4 : Me
-      Flutter & Dart      : 4 : Me
-      Firebase Backend    : 4 : Me
-    section Advanced
-      Next.js & Docker    : 3 : Me
-      AI Automation       : 3 : Me
-      DevOps & CI/CD      : 2 : Me
-```
-
----
-
-<!-- ═══════════ PROJECTS ═══════════ -->
-
-## 🏗️ Projects
-
-<details open>
-<summary>🔥 <b>Featured Work (click to collapse)</b></summary>
-<br/>
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Stack | 📄 Description | 🔗 Link |
-|---|---|---|---|
-| **Portfolio v2** | Next.js · Tailwind · Framer | Personal dev portfolio with animations | [![View](https://img.shields.io/badge/View-Repo-00f7ff?style=flat-square&logo=github&logoColor=white)](https://github.com/chellamuthukumar001) |
-| **AI Chat App** | React · OpenAI · Firebase | GPT-powered real-time chat interface | [![View](https://img.shields.io/badge/View-Repo-00f7ff?style=flat-square&logo=github&logoColor=white)](https://github.com/chellamuthukumar001) |
-| **UI Kit** | Figma · React · Tailwind | Reusable component design system | [![View](https://img.shields.io/badge/View-Repo-00f7ff?style=flat-square&logo=github&logoColor=white)](https://github.com/chellamuthukumar001) |
-| **Flutter App** | Flutter · Dart · Firebase | Cross-platform mobile utility app | [![View](https://img.shields.io/badge/View-Repo-00f7ff?style=flat-square&logo=github&logoColor=white)](https://github.com/chellamuthukumar001) |
-
-</div>
-
-</details>
-
-<details>
-<summary>🔨 <b>Currently Building →</b></summary>
-<br/>
-
-```
-🔨 [WIP] AI Automation Dashboard  → React + OpenAI + Zapier Integration
-🎨 [WIP] Freelance UI/UX Kit      → Figma system for startup clients
-📱 [WIP] Campus Connect App       → Flutter + Firebase for NSCET students
-```
-
-</details>
-
----
 
 <!-- ═══════════ GITHUB STATS ═══════════ -->
 
@@ -248,25 +155,6 @@ journey
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chellamuthukumar001&theme=tokyonight&hide_border=true&border_radius=12&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff" height="185em"/>
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chellamuthukumar001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</p>
-
----
-
-## 🧩 LeetCode Progress
-
-<details open>
-<summary>📈 <b>DSA Stats (click to collapse)</b></summary>
-<br/>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/chellamuthukumar001?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&animation=true"/>
-</p>
-</details>
 
 ---
 
@@ -302,37 +190,6 @@ journey
 
 ---
 
-<!-- ═══════════ FUN SECTION ═══════════ -->
-
-## ⚡ Fun Zone
-
-<details>
-<summary>🎭 <b>Fun Facts About Chella →</b></summary>
-<br/>
-
-- 🌙 Best code is written between **10 PM – 2 AM**
-- 🐛 First bug was a missing `semicolon` — spent 2 hours on it
-- ☕ Runs on **Filter Coffee** + lo-fi beats
-- 🎨 Can't ship something until the UI **looks perfect**
-- 🤖 Genuinely believes **AI will write 80% of code** — and that's exciting
-- 🏏 Cricket & chess enthusiast — both teach **strategy** and **patience**
-
-</details>
-
-<details>
-<summary>💬 <b>My Dev Philosophy →</b></summary>
-<br/>
-
-```
-"Make it work. Make it right. Make it fast." — Kent Beck
-
-"Design is not just what it looks like.
- Design is how it works." — Steve Jobs
-
-"The best UI is the one the user doesn't notice." — Chella
-```
-
-</details>
 
 ---
 
