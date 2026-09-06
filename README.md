@@ -284,12 +284,20 @@ journey
 
 ---
 
-<!-- ═══════════ ACTIVITY GRAPH ═══════════ -->
+<!-- ═══════════ CONTRIBUTION OVERVIEW ═══════════ -->
 
-## 📈 Activity Graph
+## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chellamuthukumar001&bg_color=1a1a2e&color=00f7ff&line=0f3460&point=00f7ff&area_color=16213e&area=true&hide_border=true&radius=8&title_color=00f7ff" width="100%" alt="Chella's Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chellamuthukumar001&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chellamuthukumar001&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chellamuthukumar001&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chellamuthukumar001&theme=tokyonight&utcOffset=5.5" width="32%"/>
 </p>
 
 ---
