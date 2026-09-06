@@ -2,6 +2,11 @@
 <!-- ║              CHELLA MUTHU KUMAR — PROFILE README         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
+<!-- ═══════════ TOP GIF ═══════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/coding.gif" width="100%"/>
+</p>
+
 <!-- ═══════════ ANIMATED HEADER BANNER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:1a1a2e,70:16213e,100:0f3460&height=260&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=42&desc=Web%20Dev%20·%20UI%2FUX%20Designer%20·%20AI%20Automation%20Builder&descSize=19&descColor=a8d8ea&descAlignY=62&stroke=00F7FF&strokeWidth=1.5" width="100%"/>
 
@@ -34,8 +39,6 @@
 <!-- ═══════════ ABOUT ME ═══════════ -->
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/coding.gif" alt="Coder GIF"/>
 
 ```javascript
 const chella = {
