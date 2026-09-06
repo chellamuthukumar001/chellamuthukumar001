@@ -12,7 +12,7 @@
 
 <!-- ═══════════ TYPING SVG ═══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+3rd+Year+CSE+Student+%40+NSCET;💻+Building+Modern+Web+Apps;🎨+Crafting+Clean+UI%2FUX+Experiences;🤖+Automating+Everything+with+AI;📱+Flutter+Cross-Platform+Developer;🔥+Open+to+Collabs+%26+Internships!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+3rd+Year+CSE+Student+%40+NSCET;💻+Building+Modern+Web+Apps;🎨+Crafting+Clean+UI%2FUX+Experiences;🤖+Automating+Everything+with+AI;📱+Flutter+Cross-Platform+Developer;🔥+Open+to+Collabs+%26+Projects!"/>
 </p>
 
 <!-- ═══════════ BADGE ROW ═══════════ -->
@@ -223,7 +223,7 @@ const chella = {
 </p>
 
 <p align="center">
-  💌 <b>DMs open for:</b> Collaborations · Freelance · Internships · Just saying Hi! 👋
+  💌 <b>DMs open for:</b> Collaborations · Freelance · Projects · Just saying Hi! 👋
 </p>
 
 ---
