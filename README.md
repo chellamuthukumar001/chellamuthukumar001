@@ -289,7 +289,7 @@ journey
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chellamuthukumar001&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=Chella's+Contribution+Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chellamuthukumar001&bg_color=1a1a2e&color=00f7ff&line=0f3460&point=00f7ff&area_color=16213e&area=true&hide_border=true&radius=8&title_color=00f7ff" width="100%" alt="Chella's Activity Graph"/>
 </p>
 
 ---
