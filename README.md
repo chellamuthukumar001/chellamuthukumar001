@@ -20,11 +20,13 @@
 
 <!-- ═══════════ BADGE ROW ═══════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chellamuthukumar001&label=👁️+Profile+Views&color=00f7ff&style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://komarev.com/ghpvc/?username=chellamuthukumar001&label=Profile+Views&color=00f7ff&style=for-the-badge&labelColor=1a1a2e&logo=eye&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/chellamuthukumar001?label=🤝+Followers&style=for-the-badge&color=00f7ff&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/github/followers/chellamuthukumar001?label=Followers&style=for-the-badge&color=00f7ff&labelColor=1a1a2e&logo=github&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/github/stars/chellamuthukumar001?label=Stars&style=for-the-badge&color=ffa500&labelColor=1a1a2e&logo=star&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e"/>
 </p>
 
 ---
