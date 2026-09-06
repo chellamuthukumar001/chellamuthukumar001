@@ -35,7 +35,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Coder GIF"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/coding.gif" alt="Coder GIF"/>
 
 ```javascript
 const chella = {
