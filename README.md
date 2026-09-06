@@ -8,7 +8,10 @@
 </p>
 
 <!-- ═══════════ ANIMATED HEADER BANNER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:1a1a2e,70:16213e,100:0f3460&height=260&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=42&desc=Web%20Dev%20·%20UI%2FUX%20Designer%20·%20AI%20Automation%20Builder&descSize=19&descColor=a8d8ea&descAlignY=62&stroke=00F7FF&strokeWidth=1.5" width="100%"/>
+
+<!-- Layer 1: Main waving banner with name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a2e,65:16213e,100:0f3460&height=220&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=🌐%20Web%20Dev%20%7C%20🎨%20UI%2FUX%20Designer%20%7C%20🤖%20AI%20Builder&descAlignY=58&descSize=17&descColor=a8d8ea" width="100%"/>
+
 
 <!-- ═══════════ TYPING SVG ═══════════ -->
 <p align="center">
