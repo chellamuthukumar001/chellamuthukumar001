@@ -9,7 +9,7 @@
 
 <!-- ═══════════ ANIMATED HEADER BANNER ═══════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/banner.svg" width="100%" alt="Chella Muthu Kumar"/>
+  <img src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/banner.svg" width="100%" alt="Chella Muthu Kumar"/>
 </p>
 
 <!-- ═══════════ TYPING SVG ═══════════ -->
