@@ -12,12 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a2e,65:16213e,100:0f3460&height=170&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=46&fontColor=00F7FF&animation=fadeIn&fontAlignY=42&desc=🌐%20Web%20Developer%20%7C%20🎨%20UI%2FUX%20Designer%20%7C%20🤖%20AI%20Automation%20Builder&descAlignY=66&descSize=17&descColor=a8d8ea" width="100%"/>
 </p>
 
-<!-- ═══════════ BACKGROUND PICTURE ═══════════ -->
-<!-- Upload the picture to this repo as bg.jpg (same folder as README.md) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/bg.jpg.jpg" width="100%" height="320" style="object-fit:cover; border-radius:16px;" alt="Chella Muthu Kumar Banner"/>
-</p>
-
 <!-- ═══════════ NAME BANNER (BOTTOM WAVE) ═══════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0f0c29&height=90&section=footer&reversal=true" width="100%"/>
