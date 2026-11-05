@@ -7,14 +7,9 @@
   <img src="https://raw.githubusercontent.com/chellamuthukumar001/chellamuthukumar001/main/coding.gif" width="820" alt="Coding Animation" style="max-width:100%; border-radius:12px;"/>
 </p>
 
-<!-- ═══════════ NAME BANNER (TOP WAVE) ═══════════ -->
+<!-- ═══════════ ANIMATED HEADER BANNER ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a2e,65:16213e,100:0f3460&height=170&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=46&fontColor=00F7FF&animation=fadeIn&fontAlignY=42&desc=🌐%20Web%20Developer%20%7C%20🎨%20UI%2FUX%20Designer%20%7C%20🤖%20AI%20Automation%20Builder&descAlignY=66&descSize=17&descColor=a8d8ea" width="100%"/>
-</p>
-
-<!-- ═══════════ NAME BANNER (BOTTOM WAVE) ═══════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0f0c29&height=90&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a2e,65:16213e,100:0f3460&height=220&section=header&text=CHELLA%20MUTHU%20KUMAR&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=🌐%20Web%20Developer%20%7C%20🎨%20UI%2FUX%20Designer%20%7C%20🤖%20AI%20Automation%20Builder&descAlignY=58&descSize=17&descColor=a8d8ea" width="100%"/>
 </p>
 
 <!-- ═══════════ TYPING SVG ═══════════ -->
